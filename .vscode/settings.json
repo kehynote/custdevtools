@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "C:\\Python27\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "editor.fontFamily": "'Courier New', Consolas,  monospace"
+}
